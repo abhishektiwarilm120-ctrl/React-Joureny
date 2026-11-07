@@ -1,0 +1,39 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+
+}
+
+
+body{
+ 
+ 
+}
+
+.card{
+  background:red;
+  font-family:'Courier New', Courier, monospace;
+  margin:50px;
+  padding:20px;
+  border-radius:10px;
+   text-align :center;
+  
+
+  
+}
+
+
+
+
+
+
+.pass{
+background:blue;
+ text-align :center;
+ font-family:'Courier New', Courier, monospace;
+  
+margin:50px;
+  padding:20px;
+  border-radius:10px; 
+} 
