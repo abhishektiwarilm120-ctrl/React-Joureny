@@ -40,11 +40,12 @@ color:#fff;
   border-radius:50%;
   object-fit:cover;
   cursor:pointer;
+    transition: transform 0.5s ease-in;
 }
 
 
 .card img:hover{
- transform: rotate(360);
+  transform: scale(1.2);
 }
 
 
