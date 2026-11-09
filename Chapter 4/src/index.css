@@ -40,12 +40,17 @@ color:#fff;
   border-radius:50%;
   object-fit:cover;
   cursor:pointer;
-    transition: transform 0.5s ease-in;
+
+
+  transition: transform 0.5s ease-in;
+
 }
 
-
+ 
 .card img:hover{
+
   transform: scale(1.2);
+
 }
 
 
@@ -64,6 +69,8 @@ color:#fff;
   color:black;
   border:none;
   cursor:pointer;
+   
+  
 }
 
 
@@ -72,5 +79,5 @@ color:#fff;
   color:whitesmoke;
   
   transition: background-color 1s  ease-in-out  0s;
-  
+   
 }
