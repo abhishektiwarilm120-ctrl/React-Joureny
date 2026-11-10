@@ -1,0 +1,59 @@
+
+
+body{
+  background: #2e2a2a;
+
+
+}
+
+.parent{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.card{
+  height:150px;
+  width:25%;
+  background: whitesmoke;
+  border-radius: 40px;
+  margin-top: 80px;
+  margin-left: 80px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+
+.card img{
+  margin-left: 20px;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+}
+
+
+
+.data p{
+  margin: 0;
+  
+}
+
+.one{
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.icon {
+display: flex;
+justify-content: flex-end;
+}
+
+
+
+
+
+
+
+
+
+
