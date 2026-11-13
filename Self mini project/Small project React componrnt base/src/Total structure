@@ -1,0 +1,23 @@
+
+1.App.jsx
+    |
+   Section1
+     |
+    Navbar               
+      |
+      NavbarLeft or NavbarRight
+         |
+        note(then in Navbar left side )-----> img & p
+        |
+     note(then in NavbarRight)  
+         |
+      NavRightOption/NavRightButton
+          |
+          note(NavRightOption)-------> options like features about 
+          |
+          note(NavRightbutton)------->button join free now
+
+
+
+
+

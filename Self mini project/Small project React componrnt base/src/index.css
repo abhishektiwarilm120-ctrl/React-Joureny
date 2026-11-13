@@ -1,0 +1,85 @@
+
+@import "tailwindcss";
+
+
+#one:hover{
+    cursor: pointer;
+    font-weight: 600;
+    border-bottom: 2px solid black;
+    margin-bottom: 0%;
+    margin-top: 6px;
+}
+
+
+
+
+#two:hover{
+    cursor: pointer;
+    font-weight: 400;
+       border-bottom: 2px solid black;
+    margin-bottom: 0%;
+    margin-top: 6px;
+
+}
+
+
+#three:hover{
+    cursor: pointer;
+    font-weight: 400;
+       border-bottom: 2px solid black;
+    margin-bottom: 0%;
+    margin-top: 6px;
+}
+
+
+#four:hover{
+    cursor: pointer;
+    font-weight: 400;
+       border-bottom: 2px solid black;
+    margin-bottom: 0%;
+    margin-top: 6px;
+}
+
+#five:hover{
+    cursor: pointer;
+    font-weight: 400;
+       border-bottom: 2px solid black;
+    margin-bottom: 0%;
+    margin-top: 6px;
+}
+
+
+
+
+
+.option p {
+    position: relative;
+    cursor: pointer;
+    
+    transition: font-weight 0.3s ease;
+}
+
+.option p::after {
+    content: "";
+    position: absolute;
+    width: 0;
+    height: 2px;
+    background: black;
+    left: 0;
+    bottom: -5px;
+    transition: width 0.3s ease;
+}
+
+.option p:hover::after {
+    width: 100%;
+}
+
+.option p:hover {
+    font-weight: 600;
+}
+
+
+
+
+
+
