@@ -1,0 +1,48 @@
+
+input{
+  margin: 10px;
+  padding: 25px;
+}
+
+
+
+
+
+
+
+
+
+.box{
+  height:200px;
+  width:200px;
+  background: blueviolet;
+}
+
+.page1{
+  background: black;
+  height: 30%;
+  width: 100%;
+}
+
+.page2{
+  background: gray;
+   height: 30%;
+  width: 100%;
+}
+
+
+.page3{
+  background: rgb(58, 56, 56);
+   height: 30%;
+  width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
